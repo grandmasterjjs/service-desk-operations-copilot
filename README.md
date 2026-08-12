@@ -1,6 +1,6 @@
 # Service Desk Operations Copilot
 
-A public-safe reconstruction of an AI-assisted Service Desk operations prototype. It demonstrates how a support leader can turn ticket data into queue-risk signals, onboarding safeguards, readiness reporting, and human-approved actions.
+A AI-assisted Service Desk operations prototype. It demonstrates how a support leader can turn ticket data into queue-risk signals, onboarding safeguards, readiness reporting, and human-approved actions.
 
 ## What it demonstrates
 
