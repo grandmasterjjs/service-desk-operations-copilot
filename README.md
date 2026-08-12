@@ -1,6 +1,6 @@
 # Service Desk Operations Copilot
 
-An AI-assisted Service Desk operations prototype. It demonstrates how a support leader can turn ticket data into queue-risk signals, onboarding safeguards, readiness reporting, and human-approved actions.
+An AI-assisted Service Desk operations prototype. It demonstrates how a support team can turn ticket data into queue-risk signals, onboarding safeguards, readiness reporting, and human-approved actions.
 
 ## What it demonstrates
 
